@@ -1,6 +1,6 @@
 #include <cstdlib> // this file was created by NetBeans automatically, may be it includes all standart cpp libraries for linux 
 #include <stdio.h> 
-#include <iostream>
+#include <iostream> // input-output streaming library
 
 using namespace std;
 
