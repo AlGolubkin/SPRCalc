@@ -1,5 +1,5 @@
-#include <cstdlib>
-#include <stdio.h>
+#include <cstdlib> // this file was created by NetBeans automatically, may be it includes all standart cpp libraries for linux 
+#include <stdio.h> 
 #include <iostream>
 
 using namespace std;
